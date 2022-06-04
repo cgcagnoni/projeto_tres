@@ -1,0 +1,1 @@
+Algumas pessoas se referem ao modelo de ramificação do Git como seu "recurso matador"
